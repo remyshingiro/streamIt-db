@@ -348,5 +348,328 @@
         ]
       }
     ]
+  },
+  {
+    "id": "bad-influencer",
+    "title": "BAD INFLUENCER",
+    "type": "series",
+    "description": "Aga filime gashya ka rocky, ntucikwe.",
+    "is_popular": true,
+    "poster_url": "/badinfluencer.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "badinfluencer1",
+            "title": "BAD INFLUENCER EP1",
+            "video_url": "https://hglink.to/5afjx0lpw0f2",
+            "download_url": "https://www.mediafire.com/file/4418res6w9fgkja/BAD+INFLUENCER+EP1.mp4/file",
+            "thumbnail_url": "/badInfluencereee.webp"
+          },
+          {
+            "id": "badinfluence2",
+            "title": "BAD INFLUENCER EP2",
+            "video_url": "https://hglink.to/mf13mj7wqygw",
+            "download_url": "https://www.mediafire.com/file/fq80hh1q7q43a02/BAD+INFLUENCER+S01E2+(1).mp4/file",
+            "thumbnail_url": "/badInfluencereee.webp"
+          },
+          {
+            "id": "badinfluence3",
+            "title": "BAD INFLUENCER EP3",
+            "video_url": "https://hglink.to/r7k5kkx3h4tt",
+            "download_url": "https://www.mediafire.com/file/lxfinavfqqnrluo/BAD+INFLUENCER+S01E3.mp4/file",
+            "thumbnail_url": "/badInfluencereee.webp"
+          },
+          {
+            "id": "badinfluence4",
+            "title": "BAD INFLUENCER EP4",
+            "video_url": "https://hglink.to/gl3d60hydo3a",
+            "download_url": "https://www.mediafire.com/file/bc8oyp9r6zj789m/BAD_INLUENCER_S01E4.mp4/file",
+            "thumbnail_url": "/badInfluencereee.webp"
+          },
+          {
+            "id": "badinfluence5",
+            "title": "BAD INFLUENCER EP5",
+            "video_url": "https://hglink.to/bxqcu4i1fvqg",
+            "download_url": "https://www.mediafire.com/file/b6cr7z30azueyir/BAD_INFLUENCER_S01_EP_5.mp4/file",
+            "thumbnail_url": "/badInfluencereee.webp"
+          },
+          {
+            "id": "badinfluence6",
+            "title": "BAD INFLUENCER EP6",
+            "video_url": "https://hglink.to/vofnac903nd4",
+            "download_url": "https://www.mediafire.com/file/abur5tg3p9wbmw8/BAD_INFLUENCER_S01_EP_6.mp4/file",
+            "thumbnail_url": "/badInfluencereee.webp"
+          },
+          {
+            "id": "badinfluence7",
+            "title": "BAD INFLUENCER EP7",
+            "video_url": "https://hglink.to/bqoubf6mwwtz",
+            "download_url": "https://www.mediafire.com/file/yirg0xl37e9t36y/BAD+INFLUENCER+S01E7.mp4/file",
+            "thumbnail_url": "/badInfluencereee.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "continental",
+    "title": "Continental",
+    "type": "series",
+    "description": "",
+    "poster_url": "/continental.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "Continental1",
+            "title": "Continental EP1",
+            "video_url": "https://hglink.to/9d0pjgg4zdeq",
+            "download_url": "https://www.mediafire.com/file/95lvnxm7wqg2i6t/THE_continental_1.mp4/file",
+            "thumbnail_url": "/continental.webp"
+          },
+          {
+            "id": "Continental2A",
+            "title": "Continental EP2",
+            "video_url": "https://hglink.to/5d43i83ut74s",
+            "download_url": "https://www.mediafire.com/file/0ypv62d23kng6k7/the_continental_2A.mp4/file",
+            "thumbnail_url": "/continental.webp"
+          },
+          {
+            "id": "Continental2B",
+            "title": "Continental EP2 B",
+            "video_url": "https://hglink.to/slzwm9yhj6as",
+            "download_url": "https://www.mediafire.com/file/rcki36of6vpzfae/the_continental_2B.mp4/file",
+            "thumbnail_url": "/continental.webp"
+          },
+          {
+            "id": "Continental3A",
+            "title": " Continental EP3 A",
+            "video_url": "https://hglink.to/qjfqpty9a1hf",
+            "download_url": "https://www.mediafire.com/file/yejvfg88ox9ad1o/the_continentaL_3A.mp4/file",
+            "thumbnail_url": "/continental.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "longroadhome",
+    "title": "THE LONG ROAD HOME",
+    "type": "series",
+    "description": "",
+    "poster_url": "/thelongroadhome.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "enemy1",
+            "title": "THE LONG ROAD HOME EP1",
+            "video_url": "https://hglink.to/sckobidfem77",
+            "download_url": "https://www.mediafire.com/file/cawan6a3woxsyvv/THE+LONG+ROAD+HOME+EP1.mp4/file",
+            "thumbnail_url": "/thelongroadhome.webp"
+          },
+          {
+            "id": "enemy2",
+            "title": "THE LONG ROAD HOME EP2",
+            "video_url": "https://hglink.to/094ugx3es7y0",
+            "download_url": "https://www.mediafire.com/file/jxmewvsk2zeankv/THE+LONG+ROAD+HOME++EP2.mp4/file",
+            "thumbnail_url": "/thelongroadhome.webp"
+          },
+          {
+            "id": "enemy3",
+            "title": "THE LONG ROAD HOME EP3",
+            "video_url": "https://hglink.to/kffub9iupfvu",
+            "download_url": "https://www.mediafire.com/file/oj10conifw3c6yv/THE+LONG+ROAD+HOME++EP3.mp4/file",
+            "thumbnail_url": "/thelongroadhome.webp"
+          },
+          {
+            "id": "enemy4",
+            "title": "THE LONG ROAD HOME EP4",
+            "video_url": "https://hglink.to/hsgcerxwgvr6",
+            "download_url": "https://www.mediafire.com/file/2h2zk5zipf26wiv/THE+LONG+ROAD+HOME+EP4.mp4/file",
+            "thumbnail_url": "/thelongroadhome.webp"
+          },
+          {
+            "id": "enemy5",
+            "title": "THE LONG ROAD HOME EP5",
+            "video_url": "https://hglink.to/hvflsecwspsl",
+            "download_url": "https://www.mediafire.com/file/w2q74bcu2fnsqe5/THE+LONG+ROAD+HOME+EP5.mp4/file",
+            "thumbnail_url": "/thelongroadhome.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "houseOfKillers",
+    "title": "A HOUSE FOR KILLERS",
+    "type": "series",
+    "description": "",
+    "poster_url": "/houseOfkillers.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "houseOfKillers1",
+            "title": "A HOUSE FOR KILLERS EP1",
+            "video_url": "https://hglink.to/44dfspty3j96",
+            "download_url": "https://www.mediafire.com/file/wdzxjkb7zemfvii/A+SHOP+FOR+KILLERS+EP1.mp4/file",
+            "thumbnail_url": "/houseOfkillers.webp"
+          },
+          {
+            "id": "houseOfKillers2",
+            "title": "A HOUSE FOR KILLERS EP2",
+            "video_url": "https://hglink.to/enakbvqdsma1",
+            "download_url": "https://www.mediafire.com/file/2h5tcgud8nbo4g7/A+SHOP+FOR+KILLERS+EP2.mp4/file",
+            "thumbnail_url": "/houseOfkillers.webp"
+          },
+          {
+            "id": "houseOfKillers3",
+            "title": "A HOUSE FOR KILLERS EP3",
+            "video_url": "https://hglink.to/2afck2mb2gym",
+            "download_url": "https://www.mediafire.com/file/q1waa2zb1q5djd7/A+SHOP+FOR+KILLERS+EP3.mp4/file",
+            "thumbnail_url": "/houseOfkillers.webp"
+          },
+          {
+            "id": "houseOfKillers4",
+            "title": "A HOUSE FOR KILLERS EP4",
+            "video_url": "https://hglink.to/gr0623k778pv",
+            "download_url": "https://www.mediafire.com/file/3i0mkeyuggwp1pa/A+SHOP+FOR+KILLERS+EP4.mp4/file",
+            "thumbnail_url": "/houseOfkillers.webp"
+          },
+          {
+            "id": "houseOfKillers5",
+            "title": "A HOUSE FOR KILLERS EP5",
+            "video_url": "https://hglink.to/n6wtlciszhli",
+            "download_url": "https://www.mediafire.com/file/ekqrr8obtniwrqv/A+SHOP+FOR+KILLERS+EP5.mp4/file",
+            "thumbnail_url": "/houseOfkillers.webp"
+          },
+          {
+            "id": "houseOfKillers6",
+            "title": "A HOUSE FOR KILLERS EP6",
+            "video_url": "https://hglink.to/9blh0zg1am92",
+            "download_url": "https://www.mediafire.com/file/xqc64tfm1o1y1xc/A+SHOP+FOR+KILLERS+EP6.mp4/file",
+            "thumbnail_url": "/houseOfkillers.webp"
+          },
+          {
+            "id": "houseOfKillers7",
+            "title": "A HOUSE FOR KILLERS EP7",
+            "video_url": "https://hglink.to/bzlhij8f6wcj",
+            "download_url": "https://www.mediafire.com/file/6ax85k06ruqfp8l/A+SHOP+FOR+KILLERS+EP7.mp4/file",
+            "thumbnail_url": "/houseOfkillers.webp"
+          },
+          {
+            "id": "houseOfKillers8",
+            "title": "A HOUSE FOR KILLERS EP8",
+            "video_url": "https://hglink.to/a4gd3y9b2qsv",
+            "download_url": "https://www.mediafire.com/file/ktveg569b4o6qo3/A+SHOP+FOR+KILLERS+EP8+FINAL.mp4/file",
+            "thumbnail_url": "/houseOfkillers.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fatedhearts",
+    "title": "FATED HEARTS",
+    "type": "series",
+    "description": "Aga filime gashya ka rocky, ntucikwe.",
+    "poster_url": "/fatedheart.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "fatedhearts1",
+            "title": "FATED HEARTS EP1",
+            "video_url": "https://hglink.to/9632p9vfue6z",
+            "download_url": "https://www.mediafire.com/file/iupp6xrsybha27q/FATED+HEART+EP1.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts2",
+            "title": "FATED HEARTS EP2",
+            "video_url": "https://hglink.to/29fkw6txw9t0",
+            "download_url": "https://www.mediafire.com/file/aq2cwnof2zcaik9/FATED+HEART+EP2.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts3",
+            "title": "FATED HEARTS EP3",
+            "video_url": "https://hglink.to/ploathxob7hd",
+            "download_url": "https://www.mediafire.com/file/d9csk9aaptrckmo/FATED+HEART+EP3.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts4",
+            "title": "FATED HEARTS EP4",
+            "video_url": "https://hglink.to/jy0yr2ftyuz8",
+            "download_url": "https://www.mediafire.com/file/44c9750rv4lrnh2/FATED+HEART+EP4.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts5",
+            "title": "FATED HEARTS EP5",
+            "video_url": "https://hglink.to/4azzy5xjuth9",
+            "download_url": "https://www.mediafire.com/file/byfuui3vthy5wxt/FATED+HEART+EP5.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts6",
+            "title": "FATED HEARTS EP6",
+            "video_url": "https://hglink.to/9oa4j133pnp1",
+            "download_url": "https://www.mediafire.com/file/hbg714zamt6wxr7/FATED+HEART+EP6.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts7",
+            "title": "FATED HEARTS EP7",
+            "video_url": "https://hglink.to/fkyfm5zhjean",
+            "download_url": "https://www.mediafire.com/file/27bpvux67r92n65/FATED+HEART+EP7.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts8",
+            "title": "FATED HEARTS EP8",
+            "video_url": "https://hglink.to/4k9amdfk9uzd",
+            "download_url": "https://www.mediafire.com/file/8gyr4ocec49uq4q/FATED+HEART+EP8.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts9",
+            "title": "FATED HEARTS EP9",
+            "video_url": "https://hglink.to/0c2brpufcx57",
+            "download_url": "https://www.mediafire.com/file/ajek2u6445dhzbm/FATED+HEART+EP9.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts10",
+            "title": "FATED HEARTS EP10",
+            "video_url": "https://hglink.to/8xvwc0gyrg0m",
+            "download_url": "https://www.mediafire.com/file/7h5f0o63zupj0qq/FATED+HEART+EP10.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts11",
+            "title": "FATED HEARTS EP11",
+            "video_url": "https://hglink.to/i8aouvftsc3w",
+            "download_url": "https://www.mediafire.com/file/a4wmt1dz3qsrhad/FATED+HEART+EP11.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          },
+          {
+            "id": "fatedhearts12",
+            "title": "FATED HEARTS EP12",
+            "video_url": "https://hglink.to/54qk5nastuw6",
+            "download_url": "https://www.mediafire.com/file/3beyqlmgpmf2ea0/FATED+HEART+EP12.mp4/file",
+            "thumbnail_url": "/fatedheart.webp"
+          }
+        ]
+      }
+    ]
   }
 ]
