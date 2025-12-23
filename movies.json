@@ -61,7 +61,7 @@
   {
     "id": "lockB",
     "title": "LOCK B",
-    "description": "Ntucikwe...😊",
+    "description": "Agasobanuye karyoshye cyane.",
     "interpreter_name": "ROCKY",
     "is_popular": true,
     "created_at": "2025-10-04",
@@ -70,7 +70,8 @@
     "image_url": "/locked.webp",
     "video_url": "https://hglink.to/8vs2e79xwwvo",
     "download_url": "https://www.mediafire.com/file/c7szv7ri2zmr8c2/Lock+B.mp4/file",
-    "youtube_trailer_url": "https://hglink.to/8vs2e79xwwvo"
+    "youtube_trailer_url": "https://hglink.to/8vs2e79xwwvo",
+    "type": "movie"
   },
   {
     "id": "sisuRocky",
