@@ -1018,5 +1018,450 @@
         ]
       }
     ]
+  },
+
+  {
+    "id": "tempest",
+    "title": "TEMPEST",
+    "type": "series",
+    "description": "Aga filime gashya ka rocky, ntucikwe.",
+    "is_popular": true,
+    "poster_url": "/tempest1.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "tempest1",
+            "title": "TEMPEST EP1",
+            "video_url": "https://hglink.to/5npz6z2g9uay",
+            "download_url": "https://www.mediafire.com/file/xugs6b8b1rhc5vr/Tempest_ep1.mp4/file",
+            "thumbnail_url": "/tempest.webp"
+          },
+          {
+            "id": "tempest2",
+            "title": "TEMPEST EP2",
+            "video_url": "https://hglink.to/iv9lgkv9pthl",
+            "download_url": "https://www.mediafire.com/file/y4ejhfyqwepg4fo/Tempest_ep2.mp4/file",
+            "thumbnail_url": "/tempest1.webp"
+          },
+          {
+            "id": "tempest3",
+            "title": "TEMPEST EP3",
+            "video_url": "https://hglink.to/omzedn4mhupz",
+            "download_url": "https://www.mediafire.com/file/92135bllsbt7zsi/Tempest_ep3.mp4/file",
+            "thumbnail_url": "/tempest.webp"
+          },
+          {
+            "id": "tempest4",
+            "title": "TEMPEST EP4",
+            "video_url": "https://hglink.to/cb4oydx53m5z",
+            "download_url": "https://www.mediafire.com/file/z9qblf91a7tr47t/TEMPEST+EP4.mp4/file",
+            "thumbnail_url": "/tempest.webp"
+          },
+          {
+            "id": "tempest5",
+            "title": "TEMPEST EP5",
+            "video_url": "https://hglink.to/y2r3wdhgljr7",
+            "download_url": "https://www.mediafire.com/file/0420a04eijcdq9d/TEMPEST+EP5.mp4/file",
+            "thumbnail_url": "/tempest.webp"
+          },
+          {
+            "id": "tempest6",
+            "title": "TEMPEST EP6",
+            "video_url": "https://hglink.to/a3k51j6578in",
+            "download_url": "https://www.mediafire.com/file/xvpbyl51n0sypl0/TEMPEST+EP6+-.mp4/file",
+            "thumbnail_url": "/tempest.webp"
+          },
+          {
+            "id": "tempest7",
+            "title": "TEMPEST EP7",
+            "video_url": "https://hglink.to/rf2se939xale",
+            "download_url": "https://www.mediafire.com/file/uguw3ribkjl6tgx/TEMPEST+EP7.mp4/file",
+            "thumbnail_url": "/tempest.webp"
+          },
+          {
+            "id": "tempest8",
+            "title": "TEMPEST EP8",
+            "video_url": "https://hglink.to/1zp49mghyk11",
+            "download_url": "https://www.mediafire.com/file/tfj2eidf4tuks3l/TEMPEST+EP8.mp4/file",
+            "thumbnail_url": "/tempest.webp"
+          },
+          {
+            "id": "tempest9",
+            "title": "TEMPEST EP9 FINAL",
+            "video_url": "https://hglink.to/wlwdy9e1v0le",
+            "download_url": "https://www.mediafire.com/file/pwkm3gn9f4ub0k0/TEMPEST_EP9_FINAL.mp4/file",
+            "thumbnail_url": "/tempest.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "billionairebunker",
+    "title": "BILLIONAIRE BUNKER",
+    "type": "series",
+    "description": "Aga filime gashya ka rocky, ntucikwe.",
+    "is_popular": true,
+    "poster_url": "/billionairebunker1.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "billionairebunker1",
+            "title": "BILLIONAIRE BANKER EP1",
+            "video_url": "https://hglink.to/g03xcei1lmoi",
+            "download_url": "https://www.mediafire.com/file/0g5f29t6c221zqk/Billionaires_Bunker_S1E1.mp4/file",
+            "thumbnail_url": "/billionairebunker2.webp"
+          },
+          {
+            "id": "billionairebanker2",
+            "title": "BILLIONAIRE BUNKER EP2",
+            "video_url": "https://hglink.to/fyu4pp5jjeuk",
+            "download_url": "https://www.mediafire.com/file/ffwbrvmfwlw057j/Billionaires_Bunker_S1E2.mp4/file",
+            "thumbnail_url": "/billionairebunker2.webp"
+          },
+          {
+            "id": "billionairebunker3",
+            "title": "BILLIONAIRE BUNKER EP3",
+            "video_url": "https://hglink.to/9hoiit5laf68",
+            "download_url": "https://www.mediafire.com/file/2iglsnhq0uhok8d/Billionaires_Bunker_S1E3.mp4/file",
+            "thumbnail_url": "/billionairebunker2.webp"
+          },
+          {
+            "id": "billionairebunker4",
+            "title": "BILLIONAIRE BUNKER EP4",
+            "video_url": "https://hglink.to/kq3rzduekoki",
+            "download_url": "https://www.mediafire.com/file/qajhep4crwtywdj/Billionaires_Bunker_S1E4.mp4/file",
+            "thumbnail_url": "/billionairebunker1.webp"
+          },
+          {
+            "id": "billionairebunker5",
+            "title": "BILLIONAIRE BUNKER EP5",
+            "video_url": "https://hglink.to/jt4igdfra3xs",
+            "download_url": "https://www.mediafire.com/file/43r81ou7bdsh7zy/Billionaires_Bunker_S1E5.mp4/file",
+            "thumbnail_url": "/billionairebunker1.webp"
+          },
+          {
+            "id": "billionairebunker6",
+            "title": "BILLIONAIRE BUNKER EP6",
+            "video_url": "https://hglink.to/vt0x96bptzxm",
+            "download_url": "https://www.mediafire.com/file/m13mh1vbx2a876c/Billionaires_Bunker_S1E6.mp4/file",
+            "thumbnail_url": "/billionairebunker03.webp"
+          },
+          {
+            "id": "billionairebunker7",
+            "title": "BILLIONAIRE BUNKER EP7",
+            "video_url": "https://hglink.to/g24vml7d8j27",
+            "download_url": "https://www.mediafire.com/file/pwxewyupwu9pur4/Billionaires_Bunker_S1E7.mp4/file",
+            "thumbnail_url": "/billionairebunker04.webp"
+          },
+          {
+            "id": "billionairebunker8",
+            "title": "BILLIONAIRE BUNKER EP8",
+            "video_url": "https://hglink.to/2ti54xcf9o8b",
+            "download_url": "https://www.mediafire.com/file/kpj93ak6xxvbo9l/Billionaires_Bunker_S1E8_Final.mp4/file",
+            "thumbnail_url": "/billionairebunker05.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aayaparseason",
+    "title": "AA YAA PAAR",
+    "type": "series",
+    "description": "Aga filime gashya ka rocky, ntucikwe.",
+    "is_popular": true,
+    "poster_url": "/aayapaar3.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "aayapaar1",
+            "title": "AA YA PAAR EP1",
+            "video_url": "https://hglink.to/g4luy0yylngh",
+            "download_url": "https://www.mediafire.com/file/1qyj80giqm776rd/Aaar_ya_paar_Ep1.mp4/file",
+            "thumbnail_url": "/aayapaar4.webp"
+          },
+          {
+            "id": "aayapaar2",
+            "title": "AA YA PAAR EP2",
+            "video_url": "https://hglink.to/orgppfzactbg",
+            "download_url": "https://www.mediafire.com/file/likzdrcimt8g41r/Aaar_ya_paar_Ep2.mp4/file",
+            "thumbnail_url": "/aayapaar3.webp"
+          },
+          {
+            "id": "aayapaar3",
+            "title": "AA YA PAAR EP03",
+            "video_url": "https://hglink.to/mlp2iqpcsz5c",
+            "download_url": "https://www.mediafire.com/file/2fer3xuye7fnj1y/Aaa_ya_paar_Ep3.mp4/file",
+            "thumbnail_url": "/aayapaar3.webp"
+          },
+          {
+            "id": "aayapar4",
+            "title": "AA YA PAAR EP4",
+            "video_url": "https://hglink.to/yzkiawqmdhzt",
+            "download_url": "https://www.mediafire.com/file/9edhs2zch2v3n7a/Aaa_ya_paar_Ep4.mp4/file",
+            "thumbnail_url": "/aayapaar4.webp"
+          },
+          {
+            "id": "aayapaar5",
+            "title": "AA YA PAAR EP5",
+            "video_url": "https://hglink.to/h7le8hl6ac9z",
+            "download_url": "https://www.mediafire.com/file/yq3no3u6rkbwjdg/Aaa_ya_paar_Ep5.mp4/file",
+            "thumbnail_url": "/aayapaar3.webp"
+          },
+          {
+            "id": "aayapaar6",
+            "title": "AA YA PAAR EP6",
+            "video_url": "https://hglink.to/wi2kwhvlb6tb",
+            "download_url": "https://www.mediafire.com/file/26p2rarcdi26u59/Aaar_ya_paar_Ep6.mp4/file",
+            "thumbnail_url": "/aayapaar3.webp"
+          },
+          {
+            "id": "aayapaar7",
+            "title": "AA YA PAAR EP7",
+            "video_url": "https://hglink.to/x2is1t6ab9s4",
+            "download_url": "https://www.mediafire.com/file/46qzmpk7f7etf7l/Aaar_ya_paar_Ep7.mp4/file",
+            "thumbnail_url": "/aayapaar1.webp"
+          },
+          {
+            "id": "aayapaar8",
+            "title": "AAA YA PAAR EP8",
+            "video_url": "https://hglink.to/hnk6f0p0gceq",
+            "download_url": "https://www.mediafire.com/file/vawe1n49do8e3gv/Aaar_ya_paar_Ep8.mp4/file",
+            "thumbnail_url": "/aayapaar1.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shadow-love",
+    "title": "SHADOW LOVE",
+    "type": "series",
+    "description": "",
+    "poster_url": "/shadow.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "shadow1",
+            "title": "SHADOW LOVE EP1",
+            "video_url": "https://hglink.to/8idivh4ohdb2",
+            "download_url": "https://www.mediafire.com/file/0efrhko3esshe30/SHADOW+LOVE+01.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow2",
+            "title": "SHADOW LOVE EP2",
+            "video_url": "https://hglink.to/jbslh0km6ibp",
+            "download_url": "https://www.mediafire.com/file/aj4x7oaer5npvsa/SHADOW+LOVE+02.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow3",
+            "title": "SHADOW LOVE EP3",
+            "video_url": "https://hglink.to/pwt9als76lcl",
+            "download_url": "https://www.mediafire.com/file/bj5xx67zltj4pxi/SHADOW+LOVE+03.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow4",
+            "title": "SHADOW LOVE EP4",
+            "video_url": "https://hglink.to/mfeuac6sxeji",
+            "download_url": "https://www.mediafire.com/file/ia802n2bb5dg9ni/SHADOW+LOVE+04.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow5",
+            "title": "SHADOW LOVE EP5",
+            "video_url": "https://hglink.to/bwpy1hz6fdgk",
+            "download_url": "https://www.mediafire.com/file/fnod2ad28k100q3/SHADOW+LOVE+05.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow6",
+            "title": "SHADOW LOVE EP6",
+            "video_url": "https://hglink.to/bxerv3skreub",
+            "download_url": "https://www.mediafire.com/file/ha6gc0dtokv98gb/SHADOW+LOVE+06.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow7",
+            "title": "SHADOW LOVE EP7",
+            "video_url": "https://hglink.to/76f3eyr117rr",
+            "download_url": "https://www.mediafire.com/file/3bgam8n5q70n15a/SHADOW+LOVE+07.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow8",
+            "title": "SHADOW LOVE EP8",
+            "video_url": "https://hglink.to/s7mykf5gptz0",
+            "download_url": "https://www.mediafire.com/file/a9ntjsn0t0o6k4g/SHADOW+LOVE+08.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow9",
+            "title": "SHADOW LOVE EP9",
+            "video_url": "https://hglink.to/el1rg6ny52vo",
+            "download_url": "https://www.mediafire.com/file/w8h0xj3kq43t8w0/SHADOW+LOVE+09.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow10",
+            "title": "SHADOW LOVE EP10",
+            "video_url": "https://hglink.to/6q8yuhe8dr1k",
+            "download_url": "https://www.mediafire.com/file/whkx0ph4m08i975/SHADOW+LOVE+10.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow11",
+            "title": "SHADOW LOVE EP11",
+            "video_url": "https://hglink.to/7m450ajl2rnq",
+            "download_url": "https://www.mediafire.com/file/dbcf7pmifuvabas/SHADOW+LOVE+11.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow12",
+            "title": "SHADOW LOVE EP12",
+            "video_url": "https://hglink.to/vhhiiorg6974",
+            "download_url": "https://www.mediafire.com/file/fyireutll0qqpo5/SHADOW+LOVE+12.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow13",
+            "title": "SHADOW LOVE EP13",
+            "video_url": "https://hglink.to/ndvb4rd89quz",
+            "download_url": "https://www.mediafire.com/file/3kls0jb52ql72sd/SHADOW+LOVE+13.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow14",
+            "title": "SHADOW LOVE EP14",
+            "video_url": "https://hglink.to/ztwzt96oc73r",
+            "download_url": "https://www.mediafire.com/file/3xxisl90lcpde00/SHADOW+LOVE+14.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow15",
+            "title": "SHADOW LOVE EP15",
+            "video_url": "https://hglink.to/vvinp7lfdoj0",
+            "download_url": "https://www.mediafire.com/file/nn1sizj6iv4guzw/SHADOW+LOVE+15.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow16",
+            "title": "SHADOW LOVE EP16",
+            "video_url": "https://hglink.to/nhruumqlekyv",
+            "download_url": "https://www.mediafire.com/file/wqkv3pklrouke7z/SHADOW+LOVE+16.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow17",
+            "title": "SHADOW LOVE EP17",
+            "video_url": "https://hglink.to/utwovdhlaswo",
+            "download_url": "https://www.mediafire.com/file/e957iai19ry8zgh/SHADOW+LOVE+17.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow18",
+            "title": "SHADOW LOVE EP18",
+            "video_url": "https://hglink.to/mt8llfjadsi7",
+            "download_url": "https://www.mediafire.com/file/usfwgbhv16lxv3l/SHADOW+LOVE+18.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow19",
+            "title": "SHADOW LOVE EP19",
+            "video_url": "https://hglink.to/tv3wi1r1gbrz",
+            "download_url": "https://www.mediafire.com/file/evjc3ex7tw1lffk/SHADOW+LOVE+19.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          },
+          {
+            "id": "shadow20",
+            "title": "SHADOW LOVE EP20",
+            "video_url": "https://hglink.to/21d64069401j",
+            "download_url": "https://www.mediafire.com/file/00h5z2eqlaycjl5/SHADOW+LOVE+20.mp4/file",
+            "thumbnail_url": "/shadow.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enemy-within",
+    "title": "THE ENEMY WITHIN",
+    "type": "series",
+    "description": "",
+    "poster_url": "/enemywithin.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "enemy1",
+            "title": "THE ENEMY WITHIN EP1",
+            "video_url": "https://hglink.to/c6lpnhpb7vdw",
+            "download_url": "https://www.mediafire.com/file/dlg7womyyt00ge8/The.Enemy.Within.S01e01..mp4/file",
+            "thumbnail_url": "/enemywithin.webp"
+          },
+          {
+            "id": "enemy2",
+            "title": "THE ENEMY WITHIN EP2",
+            "video_url": "https://hglink.to/w14mg7atau34",
+            "download_url": "https://www.mediafire.com/file/uygfahpfnjyylyg/The.Enemy.Within.S01e02.mp4/file",
+            "thumbnail_url": "/enemywithin.webp"
+          },
+          {
+            "id": "enemy3",
+            "title": "THE ENEMY WITHIN EP3",
+            "video_url": "https://hglink.to/2rf5hfao8ai1",
+            "download_url": "https://www.mediafire.com/file/6q5hcvwk1ygstb9/The.Enemy.Within.S01e03.mp4/file",
+            "thumbnail_url": "/enemywithin.webp"
+          },
+          {
+            "id": "enemy4",
+            "title": "THE ENEMY WITHIN EP4",
+            "video_url": "https://hglink.to/haqk6xmbwe0w",
+            "download_url": "https://www.mediafire.com/file/94cjb5zltbt0rpg/The.Enemy.Within.S01e04.mp4/file",
+            "thumbnail_url": "/enemywithin.webp"
+          },
+          {
+            "id": "enemy5",
+            "title": "THE ENEMY WITHIN EP5",
+            "video_url": "https://hglink.to/p2pyqmjtbhcs",
+            "download_url": "https://www.mediafire.com/file/aflo4ws04enb4qx/The.Enemy.Within.S01e05.mp4/file",
+            "thumbnail_url": "/enemywithin.webp"
+          },
+          {
+            "id": "enemy6",
+            "title": "THE ENEMY WITHIN EP6",
+            "video_url": "https://hglink.to/35q6ec5o64lx",
+            "download_url": "https://www.mediafire.com/file/l1gpo4s4ts9hgep/The.Enemy.Within.S01e06.mp4/file",
+            "thumbnail_url": "/enemywithin.webp"
+          },
+          {
+            "id": "enemy7",
+            "title": "THE ENEMY WITHIN EP7",
+            "video_url": "https://hglink.to/ht465dp675be",
+            "download_url": "https://www.mediafire.com/file/k7cbv0w7yyougei/The.Enemy.Within.S01e07.mp4/file",
+            "thumbnail_url": "/enemywithin.webp"
+          },
+          {
+            "id": "enemy8",
+            "title": "THE ENEMY WITHIN EP8",
+            "video_url": "https://hglink.to/gyej0akt9ize",
+            "download_url": "https://www.mediafire.com/file/6u19n2f0vr307e2/The.Enemy.Within.S01e08.mp4/file",
+            "thumbnail_url": "/enemywithin.webp"
+          }
+        ]
+      }
+    ]
   }
 ]
