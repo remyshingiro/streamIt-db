@@ -1,15 +1,32 @@
 [
   {
-    "title": "THE FIRST LADY EP1",
-    "description": "",
-    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1767513830/ek6kcl2wucah5qova1dz.jpg",
-    "video_url": "https://cavanhabg.com/sq6v7av9ocyr",
-    "download_url": "https://www.mediafire.com/file/85xtu8wi1xdswt7/THE+FIRST+LADY+EP1.mp4/file",
-    "category": "Action",
+    "id": "thefirstlady",
+    "title": "THE FIRST LADY",
     "type": "series",
-    "is_popular": false,
-    "interpreter_name": "ROCKY",
-    "id": "1767513871396"
+    "description": "Aga filime gashya ka rocky, ntucikwe.",
+    "is_popular": true,
+    "poster_url": "/123.webp",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "thefirstladyep2",
+            "title": "THE FIRST LADY EP2",
+            "video_url": "https://hglink.to/untgkof9ppwc",
+            "download_url": "https://www.mediafire.com/file/zb34f29ck9x4ubo/THE_FIRST_LADY_EP2.mp4/file",
+            "thumbnail_url": "/123.webp"
+          },
+          {
+            "id": "hefirstladyep1",
+            "title": " THE FIRST LADY EP1",
+            "video_url": "https://hglink.to/8nqbp9grbdlz",
+            "download_url": "https://www.mediafire.com/file/inuo9ezpcqojcyc/THE_FIRST_LADY_EP1.mp4/file",
+            "thumbnail_url": "/123.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "belaiar90",
