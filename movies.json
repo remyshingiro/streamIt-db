@@ -1,5 +1,36 @@
 [
   {
+    "title": "EAGLE",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1768485025/accxzdiks7exc9fidawo.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "collection",
+    "is_popular": true,
+    "interpreter_name": "ROCKY",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "EAGLE A",
+            "link": "https://guxhag.com/2q42dwzefki2",
+            "downloadLink": "https://www.mediafire.com/file/aamszc4fjinvwan/EAGLE+A+ROCKY+NEW.mp4/file"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "EAGLE B",
+            "link": "https://guxhag.com/oafnqzq82es1",
+            "downloadLink": "https://www.mediafire.com/file/61igym3ax6u8jvd/EAGLE_B.mp4/file"
+          }
+        ]
+      }
+    ],
+    "id": "1768485089855"
+  },
+  {
     "title": "MALEFICENT",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1768483435/zl2mcpkpxfwgdkn3wtf5.webp",
