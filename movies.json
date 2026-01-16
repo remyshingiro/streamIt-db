@@ -1,5 +1,36 @@
 [
   {
+    "title": "BAAHUBALI the beggining",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1768578374/qxgztwdhqonwnoo6s6xw.webp",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "collection",
+    "is_popular": false,
+    "interpreter_name": "ROCKY",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "BAAHUBALI A",
+            "link": "https://haxloppd.com/k257lyw2bvqi",
+            "downloadLink": "https://www.mediafire.com/file/6vucwzxzlg75op5/BAHUBALI_THE_BEGINING_A.mp4/file"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "BAAHUBALI B",
+            "link": "https://dumbalag.com/ryrzjobpmtew",
+            "downloadLink": "https://www.mediafire.com/file/hax8ngfvclaglyu/BAHUBALI_THE_BEGINNING_B.mp4/file"
+          }
+        ]
+      }
+    ],
+    "id": "1768578436799"
+  },
+  {
     "title": "ASK ME WHAT YOU WANT",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1768495725/c7qc8yrojdobyuqazmyq.avif",
