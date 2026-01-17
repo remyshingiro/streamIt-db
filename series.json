@@ -1,5 +1,36 @@
 [
   {
+    "title": "LUPIN",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1768664781/fjuik4gbvpre9mch6o1a.webp",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "series",
+    "is_popular": false,
+    "interpreter_name": "ROCKY",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "LUPIN EP1 A",
+            "link": "https://hglink.to/nwwj65blhm17",
+            "downloadLink": "https://www.mediafire.com/file/lnsov32eye6r16f/Lupin_S01_Ep_01_A.mp4/file"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "LUPIN EP1 B",
+            "link": "https://hglink.to/z9ctec4naz9m",
+            "downloadLink": "https://www.mediafire.com/file/g30pyff9ztnkabe/Lupin_S01_E02.mp4/file"
+          }
+        ]
+      }
+    ],
+    "id": "1768665092325"
+  },
+  {
     "title": "HOTEL KING",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1768576806/xhigrruuoilqde3x07fa.webp",
