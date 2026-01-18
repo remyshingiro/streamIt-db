@@ -1,5 +1,36 @@
 [
   {
+    "title": "AFTER EVER HAPPY",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1768725153/yjj82qmtq2zadycq1wac.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "collection",
+    "is_popular": false,
+    "interpreter_name": "DIDIER",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "AFTER EVER HAPPY A",
+            "link": "https://hlswish.com/cs2x6hma7wc0",
+            "downloadLink": "https://www.mediafire.com/file/2wjtotyhgpg5vom/After_Ever_Happy_A.mp4/file"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "AFTER EVER HAPPY B",
+            "link": "https://hlswish.com/x77oxee4vf0p",
+            "downloadLink": "https://www.mediafire.com/file/oevbvf38072yaam/After_Ever_Happy_B.mp4/file"
+          }
+        ]
+      }
+    ],
+    "id": "1768725220685"
+  },
+  {
     "title": "THE INTERNSHIP",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1768671665/ggd0gsubvofvrsnhfxj5.jpg",
