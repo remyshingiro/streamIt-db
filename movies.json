@@ -1,5 +1,36 @@
 [
   {
+    "title": "PATHAAN",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1769001136/aljpimis2ximguqxyqor.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "collection",
+    "is_popular": false,
+    "interpreter_name": "GAHEZA SIMBA",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "PATHAAN A",
+            "link": "https://dumbalag.com/pjr54syn2xse",
+            "downloadLink": "https://www.mediafire.com/file/wxr46l0unsdtlec/PATHAAN_A.mp4/file"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "PATHAAN B",
+            "link": "https://uasopt.com/86m8cllvdce1",
+            "downloadLink": "http://mediafire.com/file/kekdh2h6dhch89f/PATHAAN_B.mp4/file"
+          }
+        ]
+      }
+    ],
+    "id": "1769001146860"
+  },
+  {
     "title": "BAAHUBALI 2 the conclusion",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1769000305/ddjk5r0vohf0icz0u5dm.jpg",
