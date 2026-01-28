@@ -1,5 +1,30 @@
 [
   {
+    "title": "MAHARSHI",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1769611823/vnywfnycwt63lkccofvo.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "collection",
+    "is_popular": false,
+    "interpreter_name": "ROCKY",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "MAHARSHI",
+            "link": "https://cavanhabg.com/4vmooyhiz7ja",
+            "downloadLink": "https://www.mediafire.com/file/27o8fop7z0umat6/Maharshi_New_Hd.mp4/file"
+          }
+        ]
+      }
+    ],
+    "id": "1769611826918"
+  },
+  {
     "title": "JAWAN",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1769534253/mtfih3oxzarbyfvshmyh.jpg",
