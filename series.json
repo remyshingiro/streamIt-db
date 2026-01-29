@@ -12,15 +12,17 @@
     "seasons": [
       {
         "seasonNumber": 1,
-        "episodes": []
-      },
-      {
-        "seasonNumber": 2,
         "episodes": [
           {
             "episodeNumber": 1,
-            "title": "BILLIONAIRE BUNKER EP2",
-            "link": "https://cavanhabg.com/hwip4aulf9nu",
+            "title": "Billionaire bunker ep1",
+            "link": "https://haxloppd.com/ls80fximeppv",
+            "downloadLink": "https://www.mediafire.com/file/76axb8zlwwqzusr/billionaires+bunker+EP1.mp4/file"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Billionaire bunker ep2",
+            "link": "https://haxloppd.com/hwip4aulf9nu",
             "downloadLink": "https://www.mediafire.com/file/5b8c9i50duldk0c/BILLIONAIRES'+BUNKER+EP+2.mp4/file"
           }
         ]
