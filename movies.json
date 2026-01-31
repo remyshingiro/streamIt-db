@@ -1,5 +1,30 @@
 [
   {
+    "title": "YUDHRA",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1769882118/ge78kgvhnmvuodwn1oye.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "collection",
+    "is_popular": false,
+    "interpreter_name": "ROCKY",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "YUDHRA A",
+            "link": "https://haxloppd.com/37zi53mxtg5k",
+            "downloadLink": "https://www.mediafire.com/file/90fujwfdsysd10x/yudhra_a.mp4/file"
+          }
+        ]
+      }
+    ],
+    "id": "1769882128666"
+  },
+  {
     "title": "THEY CALL HIM OG",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1769881527/xtwbc6pgojyc0itcb4q9.jpg",
