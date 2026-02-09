@@ -1,5 +1,36 @@
 [
   {
+    "title": "HATE STORY ",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1770631551/jo9dkadr3spcmoasassa.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "collection",
+    "is_popular": false,
+    "interpreter_name": "ROCKY KIRABIRANYA",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "HATE STORY A ",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#t6lyp",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#t6lyp&dl=1"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "HATE STORY B",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#5cqeu",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#5cqeu&dl=1"
+          }
+        ]
+      }
+    ],
+    "id": "1770631633880"
+  },
+  {
     "title": "HEROPANTI 2",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1770608406/xujok2muoexijs9axizj.jpg",
