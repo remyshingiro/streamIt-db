@@ -1,5 +1,66 @@
 [
   {
+    "title": "crushology 101",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774186165/rkwbqyaa8lglfbxguz9x.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "series",
+    "is_popular": false,
+    "interpreter_name": "b the great",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "crushology s1 ep1",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#kcre1",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#kcre1&dl=1"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "crushology s1 ep2",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#6etxk",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#6etxk&dl=1"
+          },
+          {
+            "episodeNumber": 3,
+            "title": "crushology s1 ep3",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#h9l1v",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#h9l1v&dl=1"
+          },
+          {
+            "episodeNumber": 4,
+            "title": "crushology s1 ep5",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#5txw9",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#5txw9&dl=1"
+          },
+          {
+            "episodeNumber": 5,
+            "title": "crushology s1 ep7",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#nqgs3",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#nqgs3&dl=1"
+          },
+          {
+            "episodeNumber": 6,
+            "title": "crushology s1 ep8",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#1dmai",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#1dmai&dl=1"
+          },
+          {
+            "episodeNumber": 7,
+            "title": "crushology s1 ep9",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#ia8np",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#ia8np&dl=1"
+          }
+        ]
+      }
+    ],
+    "id": "1774186256100"
+  },
+  {
     "title": "the manupilated",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774183297/xpxvaxm3gfrywrceazaz.jpg",
