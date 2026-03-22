@@ -1,5 +1,36 @@
 [
   {
+    "title": "krrish 3",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774190978/hjriivifkcsgdczq3lkb.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "collection",
+    "is_popular": false,
+    "interpreter_name": "yanga",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "krrish 3 a",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#aovr8",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#aovr8&dl=1"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "krrish 3 b",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#xh9a5",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#xh9a5&dl=1"
+          }
+        ]
+      }
+    ],
+    "id": "1774191039073"
+  },
+  {
     "title": "11 rebels",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774187042/b9vbeodesach81hexbkx.jpg",
