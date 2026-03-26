@@ -1,5 +1,30 @@
 [
   {
+    "title": "one piece",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774542027/vnqkthbzaohtgcsdzgfv.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "series",
+    "is_popular": false,
+    "interpreter_name": "gaheza",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "one piece s1 ep1",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#o1pxq",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#o1pxq&dl=1"
+          }
+        ]
+      }
+    ],
+    "id": "1774542539623"
+  },
+  {
     "title": "beauty in black s2",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774372575/qizlrzzfamgivcwfjpkc.jpg",
