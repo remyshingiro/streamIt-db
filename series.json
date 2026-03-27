@@ -1,5 +1,42 @@
 [
   {
+    "title": "one piece s2",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774619721/kt6it6zqxtedielkf9dz.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "series",
+    "is_popular": false,
+    "interpreter_name": "gaheza",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "one piece s2 ep1",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#jvjs3",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#jvjs3&dl=1"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "one piece s2 ep2",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#5a5zp",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#5a5zp&dl=1"
+          },
+          {
+            "episodeNumber": 3,
+            "title": "one piece s2 ep3",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#nrnbs",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#nrnbs&dl=1"
+          }
+        ]
+      }
+    ],
+    "id": "1774619831900"
+  },
+  {
     "title": "one piece",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774542027/vnqkthbzaohtgcsdzgfv.jpg",
