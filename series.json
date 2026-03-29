@@ -1,5 +1,42 @@
 [
   {
+    "title": "wu assassins s1",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774788523/zpbz67axwf8wvczcloml.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "series",
+    "is_popular": false,
+    "interpreter_name": "rocky",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "wu assassins s1 ep1",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#vxqo8",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#vxqo8&dl=1"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "wu assassins s1 ep2",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#i9tdj",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#i9tdj&dl=1"
+          },
+          {
+            "episodeNumber": 3,
+            "title": "wu assassins s1 ep3",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#tob5o",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#tob5o&dl=1"
+          }
+        ]
+      }
+    ],
+    "id": "1774788544700"
+  },
+  {
     "title": "young sherlock s1",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1774787578/jwx3ijg8q3jrdgixudvi.jpg",
