@@ -5008,10 +5008,12 @@
     "interpreter_name": "GAHEZA",
     "created_at": "2024-08-30T00:00:00.000Z",
     "thumbnail_url": "/fury.jpg",
-    "poster_url": "/fury.jpg",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1775580991/pivwf3zjx7xgna0wwlxi.jpg",
     "image_url": "/fury.jpg",
     "video_url": "https://hglink.to/qtkx1utmna8i",
-    "youtube_trailer_url": "https://youtu.be/mKJucnucZ5M?si=siqRGFtjODlNIKNj"
+    "youtube_trailer_url": "https://youtu.be/mKJucnucZ5M?si=siqRGFtjODlNIKNj",
+    "type": "movie",
+    "seasons": []
   },
   {
     "id": "s18",
