@@ -4054,11 +4054,13 @@
     "interpreter_name": "YANGA",
     "created_at": "2025-10-04",
     "thumbnail_url": "/hard_corps.webp",
-    "poster_url": "/hard_corps.webp",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1775581455/f0qzegkg4oxwcbnyswho.jpg",
     "image_url": "/hard_corps.webp",
     "video_url": "https://hglink.to/fle9504jici5",
     "download_url": "https://www.mediafire.com/file/ro7kq1lxw08sfb6/The+Hard+Corps.mp4/file",
-    "youtube_trailer_url": "https://hglink.to/fle9504jici5"
+    "youtube_trailer_url": "https://hglink.to/fle9504jici5",
+    "type": "movie",
+    "seasons": []
   },
   {
     "id": "money_train",
