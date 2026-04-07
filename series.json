@@ -4010,7 +4010,7 @@
     "title": "FATED HEARTS",
     "type": "series",
     "description": "Aga filime gashya ka rocky, ntucikwe.",
-    "poster_url": "/fatedheart.webp",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1775577681/dhw4d5jodzfilomapthi.jpg",
     "seasons": [
       {
         "seasonNumber": 1,
@@ -4101,7 +4101,10 @@
           }
         ]
       }
-    ]
+    ],
+    "interpreter_name": "b the great",
+    "video_url": null,
+    "download_url": null
   },
   {
     "id": "bloodAndTreasure",
