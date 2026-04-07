@@ -5016,10 +5016,12 @@
     "interpreter_name": "GAHEZA",
     "created_at": "2024-08-30T00:00:00.000Z",
     "thumbnail_url": "/brick.jpg",
-    "poster_url": "/brick.jpg",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1775576876/xzymr7kjlkk7stac66en.jpg",
     "image_url": "/brick.jpg",
     "video_url": "https://hglink.to/14npq1esngdz",
-    "youtube_trailer_url": "https://youtu.be/fmi4Qc-cvis?si=cUmQCWK03FDPx5gh"
+    "youtube_trailer_url": "https://youtu.be/fmi4Qc-cvis?si=cUmQCWK03FDPx5gh",
+    "type": "movie",
+    "seasons": []
   },
   {
     "id": "saaho",
