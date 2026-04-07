@@ -4536,13 +4536,11 @@
     "description": "Gripping stories at a glance.",
     "interpreter_name": "ROCKY",
     "thumbnail_url": "/heads.jpg",
-    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1775581695/k5gcw60dtktsgbabitjh.webp",
+    "poster_url": "/heads.jpg",
     "image_url": "/heads.jpg",
     "video_url": "https://hglink.to/i6331zcdqx8n",
     "download_url": "https://www.mediafire.com/file/j7bc59ac7zmwm2f/HEADS_OF_STATE_A.mp4/file",
-    "youtube_trailer_url": "https://hglink.to/i6331zcdqx8n",
-    "type": "movie",
-    "seasons": []
+    "youtube_trailer_url": "https://hglink.to/i6331zcdqx8n"
   },
   {
     "id": "s41 headsB",
@@ -4550,11 +4548,13 @@
     "description": "Gripping stories at a glance.",
     "interpreter_name": "ROCKY",
     "thumbnail_url": "/heads.jpg",
-    "poster_url": "/heads.jpg",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1775581725/twockqzodbusxx3mqy4o.webp",
     "image_url": "/heads.jpg",
     "video_url": "https://hglink.to/i6331zcdqx8n",
     "download_url": "https://www.mediafire.com/file/96b2klf0r9mnt9o/HEADS_OF_STATE_B.mp4/file",
-    "youtube_trailer_url": "https://hglink.to/i6331zcdqx8n"
+    "youtube_trailer_url": "https://hglink.to/i6331zcdqx8n",
+    "type": "movie",
+    "seasons": []
   },
   {
     "id": "10146",
