@@ -1,5 +1,78 @@
 [
   {
+    "title": "Monster",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1777371180/cfb73avq551jl43o5i9y.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "series",
+    "is_popular": false,
+    "interpreter_name": "junior giti",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Monster s1 ep1",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#8advo",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#8advo&dl=1"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Monster s1 ep2",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#iblzn",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#iblzn&dl=1"
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Monster s1 ep3",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#uwt5e",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#uwt5e&dl=1"
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Monster s1 ep4",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#kux1x",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#kux1x&dl=1"
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Monster s1 ep5",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#mdg9x",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#mdg9x&dl=1"
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Monster s1 ep6",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#xtrvl",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#xtrvl&dl=1"
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Monster s1 ep8",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#co3dc",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#co3dc&dl=1"
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Monster s1 ep9",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#9nain",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#9nain&dl=1"
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Monster s1 ep10",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#wxe9m",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#wxe9m&dl=1"
+          }
+        ]
+      }
+    ],
+    "id": "monster"
+  },
+  {
     "title": "switch",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1776100141/qytwneryykacfykzzox1.jpg",
