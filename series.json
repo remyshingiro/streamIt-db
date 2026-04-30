@@ -1,5 +1,84 @@
 [
   {
+    "title": "Game of Thrones s2",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1777568420/n1w40krwmednihjzg3mu.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "series",
+    "is_popular": false,
+    "interpreter_name": "pk",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Game of Thrones s2 ep1",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#sgnqn",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#sgnqn&dl=1"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Game of Thrones s2 ep2",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#ibg1u",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#ibg1u&dl=1"
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Game of Thrones s2 ep3",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#6vzkw",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#6vzkw&dl=1"
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Game of Thrones s2 ep4",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#8abmo",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#8abmo&dl=1"
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Game of Thrones s2 ep5",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#56ovn",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#56ovn&dl=1"
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Game of Thrones s2 ep6",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#erkc5",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#erkc5&dl=1"
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Game of Thrones s2 ep7",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#9nf8l",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#9nf8l&dl=1"
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Game of Thrones s2 ep8",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#l9jnv",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#l9jnv&dl=1"
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Game of Thrones s2 ep9",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#sgnqf",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#sgnqf&dl=1"
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Game of Thrones s2 ep10 final",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#xt6eb",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#xt6eb&dl=1"
+          }
+        ]
+      }
+    ],
+    "id": "game-of-thrones-s2"
+  },
+  {
     "title": "Game of Thrones",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1777567968/ahddogqsdnk0ebgqtsvx.jpg",
