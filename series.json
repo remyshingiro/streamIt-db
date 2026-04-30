@@ -1,5 +1,84 @@
 [
   {
+    "title": "Game of Thrones",
+    "description": "",
+    "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1777567968/ahddogqsdnk0ebgqtsvx.jpg",
+    "video_url": null,
+    "download_url": null,
+    "category": "Action",
+    "type": "series",
+    "is_popular": false,
+    "interpreter_name": "pk",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Game of Thrones s1 ep1",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#erkhl",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#erkhl&dl=1"
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Game of Thrones s1 ep3",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#56onw",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#56onw&dl=1"
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Game of Thrones s1 ep2",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#am1rl",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#am1rl&dl=1"
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Game of Thrones s1 ep4",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#8abej",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#8abej&dl=1"
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Game of Thrones s1 ep5",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#pyrls",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#pyrls&dl=1"
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Game of Thrones s1 ep6",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#1lhuv",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#1lhuv&dl=1"
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Game of Thrones s1 ep7",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#tevq5",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#tevq5&dl=1"
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Game of Thrones s1 ep8",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#sgnzy",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#sgnzy&dl=1"
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Game of Thrones s1 ep9",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#3pe13",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#3pe13&dl=1"
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Game of Thrones s1 ep10 final",
+            "link": "https://agasobanuyefilime.seekplayer.vip/#l9jwn",
+            "downloadLink": "https://agasobanuyefilime.seekplayer.vip/#l9jwn&dl=1"
+          }
+        ]
+      }
+    ],
+    "id": "game-of-thrones"
+  },
+  {
     "title": "Queen for Seven Days",
     "description": "",
     "poster_url": "https://res.cloudinary.com/dvsf1nao5/image/upload/v1777371537/w4edbxgbylssf1p8mnan.avif",
